@@ -85,7 +85,7 @@ Copy the contents of `lib/display_board.rb` to your IRB session.
 
 *Don't forget to hit enter after you paste. You should see `=> :display_board`*
 
-Now you can evoke your method by calling it:
+Now you can invoke your method by calling it:
 
 ```
 // ♥ irb
@@ -101,3 +101,5 @@ A Tic Tac Toe Board
 And you can quickly see what it does!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ttt-3-display_board-example' title='Printing a Tic Tac Toe Board'>Printing a Tic Tac Toe Board</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ttt-3-display_board-example'>Display Tic Tac Board Example</a> on Learn.co and start learning to code for free.</p>
